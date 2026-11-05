@@ -1,0 +1,265 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "programs": "Programs",
+    "whyUs": "Why Us",
+    "plans": "Plans & Pricing",
+    "testimonials": "Testimonials",
+    "contact": "Contact Us"
+  },
+  "header": {
+    "login": "Login",
+    "joinTeam": "Join the Team"
+  },
+  "home": {
+    "features": "Why Families Choose Us",
+    "whyParentsChoose": "Why Parents Choose <highlight>Dar Al-Muqamah</highlight> for Their Children?",
+    "whyParentsChooseDesc": "What sets our academy apart is our commitment to combining authentic Islamic education, personalized learning for each student, and a genuinely supportive student experience.",
+    "haveQuestion": "Have a question?",
+    "contactWhatsapp": "Contact us via WhatsApp"
+  },
+  "hero": {
+    "badge": "Dar Al-Muqamah Online Academy",
+    "titlePart1": "Learn Quran and Arabic Confidently,",
+    "titleHighlight": "From Anywhere in the World",
+    "titlePart2": "",
+    "description": "Dar Al-Muqamah is an online learning platform that makes the Holy Quran, the Arabic language, and Islamic teachings accessible to learners worldwide, especially non-Arabic speakers.",
+    "ctaPrimary": "Contact Us",
+    "ctaSecondary": "Explore Programs",
+    "statsTitle": "+500 Students",
+    "statsSubtitle": "at Dar Al-Muqamah learning Quran & Arabic"
+  },
+  "aboutPreview": {
+    "subtitle": "About Our Academy",
+    "titlePart1": "A Comprehensive & Engaging Learning Journey",
+    "titleHighlight": "for Non-Arabic Speakers",
+    "titlePart2": "",
+    "desc1": "Our academy is a specialized online educational platform striving to bring the beauty of the Holy Quran, the richness of the Arabic language, and the teachings of Islam to learners all around the globe.",
+    "desc2": "We provide a comprehensive, enjoyable educational experience tailored specifically for non-Arabic speakers, combining authentic Islamic scholarship with structured pedagogy and personal mentorship.",
+    "cta": "Learn More About Us"
+  },
+  "programs": {
+    "badge": "Specialized Tracks",
+    "title": "Our Programs",
+    "quranVerse": "And whatever good you put forward for yourselves - you will find it with Allah. It is better and greater in reward.",
+    "description": "From your very first Arabic letter to confident Quran recitation and deeper understanding of Islam, our programs bring everything together in one place, specially tailored for non-Arabic speakers.",
+    "viewPlans": "View Plans & Pricing"
+  },
+  "services": {
+    "quran_memorization": {
+      "title": "Quran Memorization",
+      "desc": "Memorize the Holy Quran with dedicated instructors, personalized guidance, and a pace suited to every student."
+    },
+    "quran_revision": {
+      "title": "Quran Revision",
+      "desc": "Maintain the strength of what you have memorized through structured, consistent revision."
+    },
+    "quran_recitation": {
+      "title": "Quran Recitation",
+      "desc": "Learn to read and recite the Holy Quran with accuracy, fluency, and confidence."
+    },
+    "noor_albayan": {
+      "title": "Noor Al-Bayan (Foundations)",
+      "desc": "Build the foundation of Arabic reading, from letter recognition and accurate pronunciation to confident recitation."
+    },
+    "tajweed": {
+      "title": "Tajweed Rules",
+      "desc": "Master the rules of Tajweed and apply them for a correct and melodious recitation."
+    },
+    "arabic_language": {
+      "title": "Arabic Language",
+      "desc": "Develop reading and communication skills in Modern Standard Arabic, understanding the language of the Quran."
+    },
+    "islamic_studies": {
+      "title": "Islamic Studies",
+      "desc": "Build a comprehensive understanding of your faith alongside Quran and Arabic studies (Aqeedah, Fiqh, Hadith, Quranic and Prophets' Stories).",
+      "topics": {
+        "aqeedah": "Aqeedah (Creed)",
+        "fiqh": "Fiqh (Jurisprudence)",
+        "hadith": "Prophetic Hadith",
+        "quranStories": "Stories from the Quran",
+        "prophetsStories": "Stories of the Prophets"
+      }
+    }
+  },
+  "whyUs": {
+    "badge": "What Sets Us Apart",
+    "mainTitle": "Why Do Families Choose Us?",
+    "intro": "What makes our academy distinctive is our commitment to authentic Islamic education, tailored instruction, and a caring, encouraging student community.",
+    "viewAll": "Explore All Reasons",
+    "comprehensive": {
+      "title": "1. All-in-One Learning Hub",
+      "desc": "From Quran memorization, recitation, and revision to Noor Al-Bayan, Tajweed, Arabic, and Islamic studies, we unite key areas in one cohesive experience."
+    },
+    "nonArabic": {
+      "title": "2. Tailored for Non-Arabic Speakers",
+      "desc": "Our pedagogy directly addresses the specific challenges faced by non-native speakers, building skills step-by-step from letters to fluent recitation."
+    },
+    "personalized": {
+      "title": "3. Personalized 1-on-1 Progress",
+      "desc": "No two students learn the same way. We focus on individual attention, customized pacing, and tailored mentorship for each student's goals."
+    },
+    "teachers": {
+      "title": "4. Qualified & Dedicated Teachers",
+      "desc": "We value knowledgeable, patient, and encouraging instructors who foster both academic excellence and positive rapport."
+    },
+    "fullExperience": {
+      "title": "5. Complete Islamic Experience",
+      "desc": "We go beyond recitation to teach Aqeedah, Fiqh, Hadith, and inspiring stories, giving students a well-rounded foundation in Islam."
+    },
+    "flexible": {
+      "title": "6. Flexible Global Online Learning",
+      "desc": "Our online model allows learners worldwide to study from the comfort of home with schedules that easily fit busy family routines."
+    },
+    "interactive": {
+      "title": "7. Engaging & Fun Classes",
+      "desc": "Learning Quran and Arabic is never a chore. We use vibrant visuals and interactive quizzes to create an enjoyable atmosphere where kids thrive."
+    },
+    "parentsPartnership": {
+      "title": "8. Active Parent Partnership",
+      "desc": "Your child's learning is a collaborative journey. We keep parents continuously updated with progress notes and constructive feedback."
+    },
+    "progressTracking": {
+      "title": "9. Clear & Dedicated Progress Tracking",
+      "desc": "No guessing your child's level. Structured daily reports and detailed monthly assessments give you a transparent view of fluency and growth."
+    }
+  },
+  "progress": {
+    "badge": "Continuous & Transparent Assessment",
+    "title": "Progress You Can Clearly See",
+    "desc": "No guesswork needed. Our structured daily reports and in-depth monthly evaluations give you full visibility into your child's fluency, memorization, and overall achievements."
+  },
+  "ctaSection": {
+    "title": "At Our Academy, Every Lesson is a Growth Opportunity",
+    "desc": "Every achievement is celebrated, and every step brings the learner closer to the guidance of the Quran. Begin your journey today.",
+    "primary": "Contact Us",
+    "secondary": "Explore Programs"
+  },
+  "about": {
+    "badge": "About Our Academy",
+    "title": "Dar Al-Muqamah Online",
+    "subtitle": "A dedicated online platform bringing the beauty of the Quran and the richness of Arabic to learners worldwide.",
+    "whoAreWeTitle": "About Us",
+    "whoAreWeP1": "Our academy is a specialized online learning platform striving to connect learners across the globe with the beauty of the Holy Quran, the Arabic language, and Islam.",
+    "whoAreWeP2": "We offer a rich, enjoyable learning experience designed specifically for non-Arabic speakers, bridging authentic knowledge with modern educational techniques.",
+    "whoAreWeP3": "Our curriculum encompasses Quran memorization, recitation, revision, Noor Al-Bayan foundational reading, Modern Standard Arabic, Tajweed, and comprehensive Islamic studies.",
+    "whoAreWeP4": "We believe every learner deserves a genuine connection to the Quran regardless of age or starting level. Our supportive tutors ensure steady, confident spiritual and academic growth.",
+    "whoAreWeP5": "Dar Al-Muqamah is more than a school; it is a community for lifelong connection to the Quran and the Arabic language.",
+    "missionTitle": "Our Mission",
+    "missionP1": "Our mission is to make authentic Quranic and Islamic education easily accessible worldwide, empowering non-Arabic speakers to read with precision, fluency, and deep appreciation.",
+    "missionP2": "We are dedicated to delivering top-tier personalized instruction combining accurate recitation with impactful Arabic and essential Islamic values.",
+    "missionP3": "Through qualified educators, structured learning paths, and a nurturing environment, we nurture a genuine love of learning that lasts.",
+    "goalTitle": "Our Primary Goal & Vision",
+    "goalP1": "Our core aim is to empower students worldwide to cultivate a confident, meaningful, and enduring relationship with the Book of Allah and the Arabic language.",
+    "goalP2": "We guide every student from basic phonetics to fluent recitation with correct Tajweed, robust language understanding, and solid Islamic character.",
+    "goalP3": "Our vision is to nurture a generation of learners who recite with confidence, understand the language of revelation, and carry Islamic virtues into everyday life.",
+    "ctaPrograms": "View Our Programs",
+    "ctaContact": "Contact Us"
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "needHelp": "Have Questions or Ready to Begin?",
+    "helpDesc": "Reach out to us and our advisory team will gladly assist you in choosing the ideal program for you or your family.",
+    "features": [
+      "Prompt response to inquiries",
+      "Personalized guidance on program selection",
+      "Continuous follow-up before and after enrollment"
+    ],
+    "whatsappBtn": "Chat on WhatsApp",
+    "contactUs": "Contact Details",
+    "phone1": "Primary Phone",
+    "phone2": "Secondary Phone",
+    "whatsappChannel": "WhatsApp Channel",
+    "joinWhatsappChannel": "Follow Dar Al-Muqamah on WhatsApp",
+    "leaveMessage": "Leave a message and we will get back to you",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone or WhatsApp Number",
+      "country": "Country",
+      "countryPlaceholder": "Country (e.g. UK, USA, Canada, Egypt...)",
+      "program": "Interested Program",
+      "selectProgram": "Select Interested Program...",
+      "programsList": {
+        "quranMemorization": "Holy Quran Memorization",
+        "quranRevision": "Quran Revision & Consolidation",
+        "quranRecitation": "Quran Recitation & Fluency",
+        "noorAlbayan": "Noor Al-Bayan (Foundations)",
+        "tajweed": "Tajweed Rules",
+        "arabicLanguage": "Arabic Language",
+        "islamicStudies": "Islamic Studies",
+        "generalInquiry": "General Inquiry / Other"
+      },
+      "message": "Your Message",
+      "messagePlaceholder": "Write your message or any questions you have...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Your message was sent successfully! We will contact you soon."
+    },
+    "validation": {
+      "nameRequired": "Please enter your full name",
+      "phoneRequired": "Please enter your phone or WhatsApp number",
+      "emailRequired": "Please enter your email",
+      "emailInvalid": "Please enter a valid email address",
+      "countryRequired": "Please enter your country",
+      "programRequired": "Please select a program",
+      "messageRequired": "Please enter your message"
+    }
+  },
+  "footer": {
+    "description": "Dar Al-Muqamah is an online academy for learning the Quran, Arabic language, and Islamic studies.",
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact Numbers",
+    "channelTitle": "WhatsApp Channel",
+    "channelDesc": "Follow Dar Al-Muqamah on WhatsApp for updates, announcements, and free lessons.",
+    "joinChannel": "Join WhatsApp Channel",
+    "rights": "© {{year}} Dar Al-Muqamah Online School for Learning Quran and Arabic. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "designedBy": "Designed & Developed by"
+  },
+  "testimonialsSection": {
+    "subtitle": "Parents & Students Feedback",
+    "titlePart1": "What Our Students & Parents Say About",
+    "titleHighlight": "Dar Al-Muqamah",
+    "titlePart2": "?",
+    "desc": "Real feedback from families worldwide who trusted Dar Al-Muqamah to guide their Quranic and Arabic learning journey."
+  },
+  "testimonials": {
+    "t1": {
+      "name": "Umm Abdulrahman",
+      "role": "Parent - United Kingdom",
+      "comment": "An exceptional experience with Dar Al-Muqamah. The instructors are remarkably patient with non-native children, and the monthly progress reports made a visible impact."
+    },
+    "t2": {
+      "name": "Ahmed Farooq",
+      "role": "Tajweed Student - Canada",
+      "comment": "I started from the very basics of Tajweed rules and now recite with confidence. Flexible schedules and clear explanations made learning enjoyable and seamless."
+    },
+    "t3": {
+      "name": "Sarah Kamal",
+      "role": "Parent - United States",
+      "comment": "The Noor Al-Bayan and Arabic program is brilliantly designed for diaspora children. The personalized 1-on-1 attention keeps my daughter engaged and eager."
+    }
+  },
+  "plans": {
+    "title": "Plans & Pricing",
+    "subtitle": "Choose the learning plan that best fits your schedule and goals.",
+    "loading": "Loading...",
+    "error": "An error occurred while loading plans.",
+    "bestSeller": "Most Popular",
+    "currencyFallback": "USD",
+    "perMonth": "month",
+    "sessionsCount": "{{count}} Sessions",
+    "sessionTime": "{{time}} min / session",
+    "subscribe": "Enroll Now",
+    "noPlans": "No plans available currently"
+  },
+  "stats": {
+    "students": "Students Worldwide",
+    "teachers": "Qualified Instructors",
+    "hours": "Hours of Learning / Month",
+    "experience": "Years of Excellence"
+  }
+}
